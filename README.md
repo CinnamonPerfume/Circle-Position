@@ -19,7 +19,7 @@ the radius is invalid (non-numeric value),
 the radius is negative or zero.
 
 Sample program runs:
-
+<pre>
 Enter circle #1 parameters:
 0 0 5
 Enter circle #2 parameters:
@@ -65,3 +65,4 @@ Enter circle #1 parameters:
 Enter circle #2 parameters:
 3 7 abc
 Invalid input.
+</pre>
